@@ -1,7 +1,9 @@
 This is my First file from Ubuntu for Learning Devops
 
-git add
+git add -> staging 
 
-git commit 
+git commit -> commited on local repo
+git status -> check the changes  
+git push -> pushed on remote server
 
-git push
+
