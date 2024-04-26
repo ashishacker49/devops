@@ -7,3 +7,6 @@ git status -> check the changes
 git push -> pushed on remote server
 
 
+new line
+
+
