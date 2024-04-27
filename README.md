@@ -15,3 +15,6 @@ git scheckout branchname
 git checkout -b branchname 
 
  new 
+
+ git pull -r (rebase to remove merge conflict if other person also changed anything)
+ git push
