@@ -7,6 +7,11 @@ git status -> check the changes
 git push -> pushed on remote server
 
 
-new line
+git remote origin 
 
 
+git scheckout branchname 
+
+git checkout -b branchname 
+
+ new 
