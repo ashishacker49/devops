@@ -9,4 +9,6 @@ git push -> pushed on remote server
 
 new line
 
-
+git checkout master
+git branch
+git branch -d branchToDelete
